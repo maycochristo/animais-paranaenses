@@ -1,1 +1,64 @@
+body{
+background-color: darkgreen;
+color: #00ff2265;
+font-family: Arial, sans-serif;
+margin: 0;
+}
 
+header{
+background-color: aquamarine;
+color: aliceblue;
+text-align: center;
+padding: 30px;
+}
+
+h1{
+font-size: 36px;
+}
+
+h2{
+    color: #67f514;
+}
+
+p{
+font-size: 18px;
+line-height: 1.6;
+}
+
+nav{
+    margin-top: 20px;
+}
+
+nav a {
+color: antiquewhite;
+text-decoration: none;
+background-color: bisque;
+padding: 10px 15px;
+border-radius: 8px;
+margin: 5px;
+display: inline-block;
+}
+
+nav a:hover{ 
+    background-color: burlywood;
+}
+
+main {
+width:80%;
+margin: auto;
+}
+
+section{
+background-color: ghostwhite;
+margin: 20px 0;
+padding:20px;
+border-radius: 12px;
+}
+
+img{
+width: 100%;
+max-width:600px;
+display: block;
+margin: auto;
+border-radius: 12px;
+}
