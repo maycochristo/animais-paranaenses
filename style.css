@@ -17,7 +17,7 @@ font-size: 36px;
 }
 
 h2{
-    color: #67f514;
+    color: #102b01;
 }
 
 p{
@@ -30,7 +30,7 @@ nav{
 }
 
 nav a {
-color: antiquewhite;
+color: rgb(0, 0, 0);
 text-decoration: none;
 background-color: bisque;
 padding: 10px 15px;
@@ -40,7 +40,7 @@ display: inline-block;
 }
 
 nav a:hover{ 
-    background-color: burlywood;
+    background-color: rgb(212, 146, 58);
 }
 
 main {
@@ -49,7 +49,7 @@ margin: auto;
 }
 
 section{
-background-color: ghostwhite;
+background-color: rgb(58, 58, 143);
 margin: 20px 0;
 padding:20px;
 border-radius: 12px;
